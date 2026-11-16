@@ -211,8 +211,8 @@ O projeto está em desenvolvimento e sendo aprimorado para oferecer uma experiê
 
 ## 👨‍💻 Autores do Projeto - Grupo 2 - SENAI
 
-- Manuella da Silva Piva (líder)
 - Ayla Cristina da Silva Vilela (vice-líder)
 - Gabriella Camacho Stavarengo
 - Gustavo Millamonte
+- Manuella da Silva Piva (líder)
 - Maria Vitória Guedes Ferreira
